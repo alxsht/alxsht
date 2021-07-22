@@ -16,4 +16,4 @@ My current interests are:
  + HTML5/CSS3 :mahjong:
 
 Everyhting I know from programming I learned by myself, and I'm sure that's the best way to learn something.\
-Hope that one day I'll find my dream team and apply all the potential to my future projects.
+Hope that one day I'll find my dream team and apply all the potential to our future projects.
