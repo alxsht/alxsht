@@ -15,7 +15,7 @@ My current interests are:
  + JavaScript 
  + HTML5/CSS3 
 
-My biggest inspiration to start learning programming was my boyfriend, who has certain experience in this field and a large number of skills, and programming languages. .\
- I started to learn HTML and CSS by myself and decided to apply to the University to gain a wider range of knowledge and experience. So far I've finished my first semester there and learned how the process of Software Development works inside company, both from programming and business side. I also learned some basics of Javascript there, so that I could embed this knowledge into my Web development skills. .\
-However, I believe that the job of a Tester suits me better in terms of my abilities and skills, I am able to find even those smallest mistakes and misspells in text, and I am a very precise worker when it comes to the quality of my job. .\
+My biggest inspiration to start learning programming was my boyfriend, who has certain experience in this field and a large number of skills, and programming languages.\
+ I started to learn HTML and CSS by myself and decided to apply to the University to gain a wider range of knowledge and experience. So far I've finished my first semester there and learned how the process of Software Development works inside company, both from programming and business side. I also learned some basics of Javascript there, so that I could embed this knowledge into my Web development skills.\
+However, I believe that the job of a Tester suits me better in terms of my abilities and skills, I am able to find even those smallest mistakes and misspells in text, and I am a very precise worker when it comes to the quality of my job.\
 
