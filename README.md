@@ -8,13 +8,24 @@
  + I've been working as an **Automation QA engineer** for over a year and a half.
 
  My daily toolkit includes:
-- **Cypress**
-- **Git**
-- **GitLab**
-- **TestRail**
-- **JMeter**
-- **JIRA**
-- **Chrome DevTools**
+
+Automation - Cypress
+
+API - Postman, Insomnia
+
+Programming Languages - JavaScript
+
+Manual Test Management Tool - TestRail
+
+Code Management - Git, Github, GitLab
+
+Task Management Tools - JIRA, Confluence
+
+Performance Testing Tool - JMeter
+
+DevOps - Docker
+
+AI Tools - Co-pilot, ChatGPT
 
 Last year, I obtained a new certification from **ISTQB** for a **CTFL** course and exam. I'm passionate about staying up-to-date with the latest trends in the QA field, and I eagerly pursue courses that can enhance my knowledge. 
 
